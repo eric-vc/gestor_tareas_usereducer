@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gestor_tareas_usereducer/static/css/main.f5990ad9.css",
+    "main.js": "/gestor_tareas_usereducer/static/js/main.e0be156a.js",
+    "static/js/453.7ac0f0dd.chunk.js": "/gestor_tareas_usereducer/static/js/453.7ac0f0dd.chunk.js",
+    "static/media/logo.svg": "/gestor_tareas_usereducer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gestor_tareas_usereducer/index.html",
+    "main.f5990ad9.css.map": "/gestor_tareas_usereducer/static/css/main.f5990ad9.css.map",
+    "main.e0be156a.js.map": "/gestor_tareas_usereducer/static/js/main.e0be156a.js.map",
+    "453.7ac0f0dd.chunk.js.map": "/gestor_tareas_usereducer/static/js/453.7ac0f0dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5990ad9.css",
+    "static/js/main.e0be156a.js"
+  ]
+}
